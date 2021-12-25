@@ -82,11 +82,6 @@ params:
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: true # hide on single page
 
-    editPost:
-        URL: "https://github.com/kaizawa97/posts"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
-
     # for search
     # https://fusejs.io/api/options.html
     fuseOpts:
