@@ -1,5 +1,6 @@
-baseURL: "https://kaizawa97.github.io"
+baseURL: "https://kaizawa97.github.io/"
 title: Kai's Portfolio
+publishDir : "docs"
 paginate: 5
 theme: PaperMod
 
