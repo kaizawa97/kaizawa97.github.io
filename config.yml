@@ -13,6 +13,7 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    googleAnalyticsID: G-ZZ5ERF9C4Z
     title: Kai's Portfolio
     description: "Kai's Portfolio"
     keywords: [Kai Mitsuzawa,光沢 加偉]
