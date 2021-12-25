@@ -15,7 +15,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Kai's Portfolio
     description: "Kai's Portfolio"
-    keywords: [Kai Mitsuzawa,光沢 加偉, 村上財団]
+    keywords: [Kai Mitsuzawa,光沢 加偉]
     author: Kai
     images: ["twitter.jpg"]
     DateFormat: "January 2, 2006"
