@@ -1,0 +1,111 @@
+baseURL: "https://kaizawa97.github.io"
+title: Kai's Portfolio
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+googleAnalytics: G-ZZ5ERF9C4Z
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Kai's Portfolio
+    description: "Kai's Portfolio"
+    keywords: [Kai Mitsuzawa,光沢 加偉, 村上財団]
+    author: Kai
+    images: ["twitter.jpg"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: logo.png
+        favicon16x16: logo.png
+        favicon32x32: logo.png
+        apple_touch_icon: logo.png
+        safari_pinned_tab: logo.png
+
+    label:
+        text: "Kai's Portfolio"
+        icon: /logo.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Kai's Portfolio
+        subtitle: "Hello. I'm Kai."
+        imageUrl: "profile.jpg"
+        imageWidth: 200
+        imageHeight: 200
+        imageTitle: my image
+        buttons:
+            - name: Profile
+              url: profile/kai
+            - name: Posts
+              url: posts
+            - name: Media
+              url: media
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/kaizawa97"
+        - name: facebook
+          url: "https://www.facebook.com/kai.mitsuzawa/"
+        - name: linkedin
+          url: "https:/linkedin.com/in/mitsuzawa-kai/"
+        - name: github
+          url: "https://github.com/kaizawa97/"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/kaizawa97/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: Profile
+          name: Profile
+          url: /profile/kai/
+          weight: 10
+        - identifier: Posts
+          name: Posts
+          url: /posts/
+          weight: 20
+        - identifier: Media
+          name: Media
+          url: //media/
+          weight: 30
