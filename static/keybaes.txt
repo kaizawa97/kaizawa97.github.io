@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/kaizawa97
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kaizawa97.github.io
+  * I am kaizawa97 (https://keybase.io/kaizawa97) on keybase.
+  * I have a public key with fingerprint B45B 03B9 D6BE B5E2 A246  705D 181A 0E62 3F95 72AF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010125c419c4879220edfecd1f4d323826104582dd118bc5faeed325bddb2b26f8f30a",
+      "fingerprint": "b45b03b9d6beb5e2a246705d181a0e623f9572af",
+      "host": "keybase.io",
+      "key_id": "181a0e623f9572af",
+      "kid": "010125c419c4879220edfecd1f4d323826104582dd118bc5faeed325bddb2b26f8f30a",
+      "uid": "1ee699ef3febe5ee36802a7d2c11d419",
+      "username": "kaizawa97"
+    },
+    "merkle_root": {
+      "ctime": 1640475175,
+      "hash_meta": "6c49ff6ef81d9fdde6844d5dfae40d1a023699bcdea4ceb41ff19eb6f8457f1d",
+      "seqno": 21506428
+    },
+    "revoke": {
+      "sig_ids": [
+        "aa21d9caf6b9600283118a8e3aeca8fba0b8ef01c115a98078cce1c44a6efa3b0f"
+      ]
+    },
+    "service": {
+      "hostname": "kaizawa97.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1640475188,
+  "expire_in": 157680000,
+  "prev": "8b42c02ceb897f2683465a51112f7939e0693326105d0e14ad84b8f70a06e60d",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK5AnicrZNtaBxFGMfvNLXxpEEorV8K4uKHCrHOzM7Mzp7Sqpi2vlRaUbA18ZzZ
+eeZuvdztdXdzZ1+uxU+GWkGU1qr4TUKpIqG1ii+xJSQx0qIlagv1rQpq8UPVo4jB
+1DqbKkjxo/tl2dn/8/x/z39mJhZdmSvkd321du3FPw6uyx8b3zGUkx8eoNscFekt
+TnGbU4X5FwxqSNJSNdRO0UEYYcICiv2ACs8nBIE2EGhsqHaJKwjHiDJBtMZYqIAZ
+CWB/MKW1IopwI4yLpNPrmLBehrgRh/XUtlWUKeQqX3MFigGRhHIPMY0Flgg4cY3P
+PCKNLaxESVZh4ZRMYEUY2TX7UZrH+w/9/8w9dMkHgPs+GNeAAgbgcoGI9DQJMNbW
+JBMmENdlDTJWGW6VLel7TrvXqUFcHYRSHEVplm6QhpkGc4qox7DH7IQyqZRqkEpb
+ygPqG8PBCKx9ozVwQalm2vJRpO2wxLUgKtAgaQCKYmOwD8ryUuYZrC1IApvrkVMk
+mCFOibAIMTSjKmTuSVi2wSVO8RFHSmItAmm48jlCRLg2CSnAlRBIYZRESoBB2E7I
+pC+QJ4IAcECptHTSVcg4A+3MLW6GwXzzbKcuT2BFOUwrQ+rStjXiKI2CaNAKKmna
+SIpZPumWRlbRAlX6u1dJhXVtj4utaEKchFHd5mWVl0UnRK8DTzTCGEphpmCe3RT7
+ZD7QtC2FoiRAxMYkfM8QLlzKmWQYY2I83/UBcd91s5PANAJMpRZUCeMhiThw9K8s
+fYspy7alza8u06EYnPb40f6uXL6Qu2rBFdk1yhWuvvafy3Vy1cKLQc8D5ccWVidv
+n96z/chNz+76uTOSe2dfu3D43IJTjbdOftG9PFpWi++bfebF198/Nnm2cKH7/Mba
+Qbr+xPFDhc7SO/dvGv1uanHXmKfOBjvX/Hn+1NjK1V3nNnT4+Nz3rcreL+fW/PrB
+7OmvO6dbRxZv9Ja8fcNDrf6p3NZl6sx1vxflk4cOw7ujR2eGVy8Z3n3rjs8nynOV
+nyZ+HBvE4S0zfGB3G0/dWF/e3/P07KcnblMzvOv6zRvuGe3soZsGVr2ybzqavvvl
+B/vee4osfTzvf/TxzDdv3vzbL8N9F54feS7/w0uveQfeuGPdw/eOfNb9as/K/dsX
+nXFrd92/89vpFx7tW3/N3k9KzTg8PvkXGE2NXw==
+=9Kxf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaizawa97
+
+==================================================================
