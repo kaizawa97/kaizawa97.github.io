@@ -1,4 +1,4 @@
-baseURL: "https://kaizawa97.github.io/"
+baseURL: "https://kaizawa97.github.io/home"
 title: Kai's Portfolio
 publishDir : "docs"
 paginate: 5
@@ -82,7 +82,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/kaizawa97/content"
+        URL: "https://github.com/kaizawa97/posts"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
