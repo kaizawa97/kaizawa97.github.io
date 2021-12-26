@@ -1,4 +1,4 @@
-baseURL: "https://kaizawa97.github.io/"
+baseURL: "/"
 title: Kai's Portfolio
 publishDir : "docs"
 paginate: 5
