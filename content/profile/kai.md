@@ -25,7 +25,7 @@ ShowPostNavLinks: true
 ## Work Experience
 インターンの経歴について記載しています。
 
-- 2021/01 - Present | The Murakami Family Foundation
+- 2022/01 - Present | The Murakami Family Foundation
   - Community service (Internship)
 
 - 2021/07 - 2021/09 | NHK, Japan Broadcasting Corporation
