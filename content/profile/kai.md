@@ -20,19 +20,19 @@ ShowPostNavLinks: true
     - 投資部と政治部に所属していました。
   - 2021-2025 慶應義塾大学 環境情報学部(SFC)
     - 村井合同研究室 手塚研究会(サイバーセキュリティ系)
-    - WIDE Project 番号:2182
+    - WIDE Project 番号:2182 Site:https://web.sfc.wide.ad.jp/~kaizawa97/
 
 ## Work Experience
 インターンの経歴について記載しています。
 
-- 2021/01 - Present The Murakami Family Foundation
+- 2021/01 - Present | The Murakami Family Foundation
   - Community service (Internship)
 
-- 2021/07-2021/09 NHK, Japan Broadcasting Corporation
+- 2021/07-2021/09 | NHK, Japan Broadcasting Corporation
     - System Engineer (Internship)
     - Tokyo2020 Olympic Games
 
-- 2021/04-2021/07 Monolith Works
+- 2021/04-2021/07 | Monolith Works
     - Security Engineer (Internship)
 
 ## Skills
